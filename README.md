@@ -1,0 +1,1 @@
+# minggu6_penambangan_data
